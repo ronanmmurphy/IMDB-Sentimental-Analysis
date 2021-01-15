@@ -1,2 +1,4 @@
 # IMDB-Sentimental-Analysis
-Linear Support Vector Machine (SVM) using Spark MLib and RDDs to predict the label of Movies, calculating AUROC to evaluate model.
+Linear Support Vector Machine (SVM) model implmented to provide Sentimenal Anaylsis classification predictions of IMDB movies.
+Spark MLib and RDDs used to train and test this model. 
+Calculates AUROC to evaluate model.
